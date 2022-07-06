@@ -5,6 +5,6 @@
 </p>
 
 
-<p align="center">我会在那<b>腥臭腐朽<b>的日子里，<b>熠熠生辉！<b></p>
+<p align="center">我会在那<b>腥臭腐朽<b> 的日子里， <b>熠熠生辉！<b> </p>
 
-<p align="center">你不会懂的，就像你说的 <b>我有病！<b></p>
+<p align="center">你不会懂的，就像你说的 <b>我有病！<b> </p>
