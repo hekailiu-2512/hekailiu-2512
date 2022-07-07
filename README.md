@@ -15,3 +15,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hekailiu-2512&repo=heli&show_owner=true&theme=tokyonight" />
   </a>
 </p>
+### 🤝🏻 &nbsp;Contact with Me
+<a href="hekailiu@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hekailiu@foxmail.com-blue?style=flat-square&logo=gmail" /> 
+</a>
