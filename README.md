@@ -14,6 +14,6 @@
 
 
 </p>
-# 🤝🏻✨ &nbsp;Contact with Me
+🤝🏻✨ &nbsp;Contact with Me
 <a href="hekailiu@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hekailiu@foxmail.com-blue?style=flat-square&logo=gmail" /> 
 </a>
