@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/hekailiu-2512">
     <img src="https://ghchart.rshah.org/hekailiu-2512" />
-  </a>
 </p>
 
 </p>
