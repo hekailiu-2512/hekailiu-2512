@@ -8,14 +8,12 @@
 
 忽然撞着来时路 始觉平生被眼瞒
 
-</p>
-🤝🏻✨ &nbsp;Contact with Me
-<a href="hekailiu@foxmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hekailiu@foxmail.com-blue?style=flat-square&logo=gmail" />
-</a>
-
+<a href="https://github.com/hekailiu-2512"><img src="https://komarev.com/ghpvc/?username=hekailiu-2512" alt="hekailiu-2512" /></a>
 ### 个人GitHub统计
 
 |                          GitHub状态                          |                        使用最多的语言                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hekailiu-2512&show_icons=true&theme=synthwave) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hekailiu-2512&&hide=tsql) |
-
+***
+![](https://raw.githubusercontent.com/sy-records/hekailiu-2512/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/hekailiu-2512/hekailiu-2512/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
